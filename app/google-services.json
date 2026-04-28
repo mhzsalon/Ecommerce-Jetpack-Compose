@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "678747554068",
+    "firebase_url": "https://notification-d027a-default-rtdb.firebaseio.com",
+    "project_id": "notification-d027a",
+    "storage_bucket": "notification-d027a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678747554068:android:32307cb17de8d4b3f6c201",
+        "android_client_info": {
+          "package_name": "com.example.ecomm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcxutDMAJ3CA-ypn8QiyooHanH0Tx39WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678747554068:android:0c26a6222114df2ef6c201",
+        "android_client_info": {
+          "package_name": "com.service.bookmyservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcxutDMAJ3CA-ypn8QiyooHanH0Tx39WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
